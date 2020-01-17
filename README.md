@@ -1,1 +1,1 @@
-#This is a craiglist clone called... Codedaddies_list.
+# This is a craiglist clone called... Codedaddies_list.
